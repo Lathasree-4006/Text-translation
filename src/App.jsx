@@ -15,7 +15,7 @@ function App() {
         method: 'POST',
         url: 'https://google-translator9.p.rapidapi.com/v2',
         headers: {
-          'x-rapidapi-key': '1207e1d96dmshd9184cfdd64d528p11314fjsnc8985bcef5fd',
+          'x-rapidapi-key': 'place your rapid api-key',
           'x-rapidapi-host': 'google-translator9.p.rapidapi.com',
           'Content-Type': 'application/json'
         },
